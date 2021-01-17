@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 271be9bc18f7fd24da5979ecdac7e941
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Neo Sans W1G
+  fontNames:
+  - Neo Sans W1G
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 94e99942d61c30841bd3a2a98daea9f0, type: 3}
+  - {fileID: 12800000, guid: 4674e36509f75554c8367292a329db75, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
